@@ -1,0 +1,4 @@
+[build]
+  base = "random-adventure-generator"
+  command = "npm install && npm run build"
+  publish = "dist"
